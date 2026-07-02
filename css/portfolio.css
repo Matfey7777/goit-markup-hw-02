@@ -1,0 +1,19 @@
+.portfolio-title {
+  text-align: center;
+}
+
+.portfolio-list {
+  list-style: none;
+}
+
+.portfolio-name {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.portfolio-text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+}
