@@ -8,6 +8,9 @@
   color: #2e2f42;
   text-decoration: none;
   font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  line-height: 1.33;
 }
 
 .logo-accent {
@@ -41,4 +44,7 @@
 .address-link:hover,
 .address-link:focus {
   color: #404bbf;
+}
+.address {
+  font-style: normal;
 }
